@@ -11,4 +11,7 @@ The course covered techniques of how Python is deployed for Data Science, work w
 8. Various ML Algorithms.
 10. Bayesian Classification.
 11. Web Scraping.
-12. Case Study
+12. Case Study.
+
+<img 
+src="https://github.com/adheepshetty/Python-for-Data-ScienceCertificationTraining/blob/master/Certificates/course_completion_certificate.pdf">
